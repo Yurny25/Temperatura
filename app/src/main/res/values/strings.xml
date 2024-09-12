@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="conversor_de_unidades_de_temperatura">Conversor de Unidades de Temperatura</string>
+    <string name="el_converso">
+        El conversor de unidades se usa introduciendo el valor numerico de temperatura en el campo "Valor", y seleccionando la unidad con ayuda de los botones °C, °F o °K.
+    </string>
+    <string name="valor">Valor</string>
+</resources>
