@@ -5,4 +5,8 @@
         El conversor de unidades se usa introduciendo el valor numerico de temperatura en el campo "Valor", y seleccionando la unidad con ayuda de los botones °C, °F o °K.
     </string>
     <string name="valor">Valor</string>
+    <string name="c">°C</string>
+    <string name="f">°F</string>
+    <string name="k">°K</string>
+    <string name="unidad">Unidad</string>
 </resources>
